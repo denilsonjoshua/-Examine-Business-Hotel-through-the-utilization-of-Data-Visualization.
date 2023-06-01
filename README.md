@@ -1,1 +1,2 @@
 # -Examine-Business-Hotel-through-the-utilization-of-Data-Visualization.
+As a data scientist in a hotel company, I analyzed hotel bookings to provide performance insights. Preprocessing data, I identified booking trends by season and length of stay. Results showed lowest cancellation rates for bookings made within 30 days, with the City Hotel having a higher cancellation ratio (60%) for longer waiting periods.
